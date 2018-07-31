@@ -25,4 +25,12 @@ setup:
 ![](https://i.imgur.com/M2EgW6J.png)
 
 
+导入到QQ阅读如下
+![](https://i.imgur.com/NFTMjwB.png)
+
+![](https://i.imgur.com/zXOjL21.jpg)
+
+![](https://i.imgur.com/XBkO0Hh.jpg)
+
+
 
