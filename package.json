@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-grab-a-novel",
+  "version": "1.0.0",
+  "description": "平时看无法下载本地的小说，需要一章一章在线阅读，很不方便，抓取下来似乎更好更方便点",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node readText.js demo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huainanhai/Nodejs-Grab-a-novel.git"
+  },
+  "author": "wz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huainanhai/Nodejs-Grab-a-novel/issues"
+  },
+  "homepage": "https://github.com/huainanhai/Nodejs-Grab-a-novel#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "cross-env": "^5.2.0"
+  }
+}
